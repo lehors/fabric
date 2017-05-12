@@ -72,7 +72,7 @@ To work on something, whether a new feature or a bugfix:
 **Note:** if you are cloning the fabric project repository, you will
 want to clone it to the ``$GOPATH/src/github.com/hyperledger`` directory
 so that it will build, and so that you can use it with the Vagrant
-:dod:`development environment <../dev-setup/devenv>`.
+:doc:`development environment <../dev-setup/devenv>`.
 
 4. Create a descriptively-named branch off of your cloned repository
 
