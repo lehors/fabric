@@ -72,7 +72,7 @@ policies. It is defined as follows:
     }
 
 Because ``ConfigGroup`` is a recursive structure, consider an example
-hierarchical arrangement of ``ConfigGroup``s (expressed for clarity in
+hierarchical arrangement of ``ConfigGroup`` s (expressed for clarity in
 golang notation).
 
 ::

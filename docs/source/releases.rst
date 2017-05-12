@@ -126,8 +126,8 @@ September 16, 2016
 A developer preview release of the Hyperledger Fabric intended to
 exercise the release logistics and stabilize a set of capabilities for
 developers to try out. This will be the last release under the original
-architecture. All subsequent releases will deliver on the `v1.0
-architecture <TODO>`__.
+architecture. All subsequent releases will deliver on the :doc:`v1.0
+architecture<architecture>`.
 
 Key enhancements:
 

@@ -148,7 +148,7 @@ Finding Available Topics
        $ ssh -p 29418 gerrit.hyperledger.org gerrit query \ status:open project:fabric branch:master \
        | grep topic: | sort -u
 
--  `gerrit.hyperledger.org <>`__ Is the current URL where the project is
+-  `gerrit.hyperledger.org <https://gerrit.hyperledger.org>`__ Is the current URL where the project is
    hosted.
 -  *status* Indicates the topic's current status: open , merged,
    abandoned, draft, merge conflict.
